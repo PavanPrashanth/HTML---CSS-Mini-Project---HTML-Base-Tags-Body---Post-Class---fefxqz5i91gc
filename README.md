@@ -11,11 +11,7 @@ Navigation menu toggle feature for mobile devices
 Portfolio section showcasing projects
 Contact section with a form for sending messages
 
-## Getting Started
 
-To view the website, simply open the index.html file in your web browser.
-
-To make changes to the website, modify the style.css and script.js files as necessary.
 
 
 
